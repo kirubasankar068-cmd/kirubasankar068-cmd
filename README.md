@@ -1,39 +1,37 @@
 <div align="center">
 
-<img src="./assets/aurora_banner.svg" width="100%" alt="banner"/>
-
-<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&section=header&text=KIRUBA%20SANKAR%20S&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=CFD8FF&center=true&vCenter=true&width=600&lines=AI+%C2%B7+DATA+%C2%B7+FULL+STACK;Turning+data+into+decisions;Building+things+that+matter;Open+to+collaborations" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/machine%20learning-2b2b40?style=flat-square" />
+<img src="https://img.shields.io/badge/full%20stack-2b2b40?style=flat-square" />
+<img src="https://img.shields.io/badge/open%20source-2b2b40?style=flat-square" />
 
 </div>
 
 <br/>
 
-<table width="100%">
+<table width="100%" cellpadding="14" style="border-collapse:collapse;">
 <tr>
-<td width="65%" valign="top">
+<td width="65%" valign="top" align="center" style="background:#161625; border-radius:14px;">
 
-<div align="center">
-
-### 🧠 ABOUT
+<h3>🧠 ABOUT</h3>
 
 **Turning data into decisions.**
 
 <sub>› open to collaborations_</sub>
 
-</div>
-
 </td>
-<td width="35%" valign="top">
+<td width="35%" valign="top" style="padding-left:10px;">
 
-<div align="center">
-
-🎯 **ALWAYS LEARNING**
-
-⭐ **PROBLEM SOLVER**
-
-</div>
+<table cellpadding="10">
+<tr><td align="center" style="background:#161625; border-radius:14px;">🎯<br/><b>ALWAYS<br/>LEARNING</b></td></tr>
+<tr><td height="8"></td></tr>
+<tr><td align="center" style="background:#161625; border-radius:14px;">⭐<br/><b>PROBLEM<br/>SOLVER</b></td></tr>
+</table>
 
 </td>
 </tr>
@@ -41,7 +39,7 @@
 
 <br/>
 
-<div align="center">
+<div align="center" style="background:#161625; border-radius:14px; padding:20px;">
 
 ### ⚙️ STACK
 
@@ -78,40 +76,25 @@
 ## 💻 Featured Projects
 
 **🍽️ Food Calorie Measurement using Machine Learning** (2025)
-Engineered an ML-based system that estimates food calorie content from food images and nutritional data using image processing and classification algorithms. Enhances dietary monitoring with instant, data-driven calorie insights.
+Engineered an ML-based system that estimates food calorie content from food images and nutritional data using image processing and classification algorithms.
 
 **📸 Event Photo Gallery** (2025)
-Built a dynamic Event Photo Gallery web app using the MERN stack to upload, store, and showcase event photos. Designed for scalability, real-time updates, secure image storage, and a responsive UI across devices.
+Built a dynamic Event Photo Gallery web app using the MERN stack — upload, store, and showcase event photos with a real-time, responsive UI.
 
 ---
 
 ## 📜 Certifications
 
-| Certification | Issuer | Year |
-|---|---|---|
-| React | Infosys Springboard | 2025 |
-| AWS Developer | Infosys Springboard | 2025 |
-| Claude on Amazon Bedrock | Anthropic | 2026 |
+- React — Infosys Springboard (2025)
+- AWS Developer — Infosys Springboard (2025)
+- Claude on Amazon Bedrock — Anthropic (2026)
 
 ---
 
 ## 🏆 Achievements
 
-- 🧩 **LeetCode:** Solved 69+ problems
-- ⚙️ **Skillrack:** Solved 100+ problems
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kirubasankar068-cmd&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kirubasankar068-cmd&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirubasankar068-cmd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+- LeetCode: Solved 69+ problems
+- Skillrack: Solved 100+ problems
 
 ---
 
@@ -119,8 +102,4 @@ Built a dynamic Event Photo Gallery web app using the MERN stack to upload, stor
 
 <img src="https://raw.githubusercontent.com/kirubasankar068-cmd/kirubasankar068-cmd/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation"/>
 
-<br/><br/>
-
-<div align="center">
-<sub>💬 Always open to collaborate on ML and full-stack projects — feel free to connect!</sub>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,100:0f0c29&height=100&section=footer" width="100%"/>
