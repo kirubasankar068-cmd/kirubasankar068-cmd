@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://api.dicebear.com/7.x/initials/png?seed=Kiruba%20Sankar&backgroundColor=1e293b&textColor=ffffff&fontWeight=700&size=140" width="140" style="border-radius:12px;border:4px solid #ffffff" />
+<img src="https://kommodo.ai/i/jSAI5qsI2xjHESBqt09G/png?seed=Kiruba%20Sankar&backgroundColor=1e293b&textColor=ffffff&fontWeight=700&size=140" width="140" style="border-radius:12px;border:4px solid #ffffff" />
 
 <br/><br/>
 
